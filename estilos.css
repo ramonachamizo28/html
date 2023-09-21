@@ -1,0 +1,36 @@
+#contenedor{
+    border: solid 5px red;
+    margin: auto;
+    width: 95%;
+}
+marquee{ 
+    font-size: 20px;
+    background-color: rgb(58, 9, 236);
+    color: aqua;
+    padding:10px 5px;
+}
+nav{
+    display: flex;
+    padding: 5px 0;
+}
+nav>p{
+    padding: 5px 10px;
+    background: rgb(58, 9, 236);
+    color: beige;
+    margin: 0 5px;
+    transition:  all 1s;
+}
+nav>p:hover{
+   
+    background: rgb(63, 211, 162);
+    color: rgb(8, 8, 8);
+   
+}
+#banner>img{
+    width: 100%;
+
+
+}
+    
+
+
